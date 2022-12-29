@@ -35,6 +35,7 @@ body {
   align-items: center;
   background-color: rgba(41, 44, 51, 0.5);
   border-radius: 50%;
+  margin-top: 50px;
   margin-bottom: 25px;
 }
 
@@ -93,6 +94,7 @@ body {
   background-color: rgb(227, 103, 37);
   color: white;
   transition: 0.85s ease-in-out;
+  margin-bottom: 50px;
 }
 
 .submit > button.clicked {
@@ -119,7 +121,7 @@ body {
 
 .img {
   width: 100px;
-  margin-top: 25px;
+  margin-top: 50px;
 }
 
 .img > img {
@@ -135,7 +137,7 @@ body {
   color: rgb(227, 103, 37);
   font-size: 1.3em;
   background-color: rgba(41, 44, 51, 0.5);
-  padding: 25px;
+  padding: 15px;
   border-radius: 25px;
   width: 100%;
 }
@@ -149,5 +151,5 @@ h2 {
   font-size: 1.3em;
   line-height: 1.8;
   color: rgb(150, 150, 150);
-  margin-bottom: 25px;
+  margin-bottom: 50px;
 }

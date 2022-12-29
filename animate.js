@@ -21,10 +21,10 @@ for (let i = 0; i < buttons.length; i++) {
   });
 }
 
-first.addEventListener('focus', () => {
+first.addEventListener('click', () => {
 	para.innerHTML = `You selected ${'1'} out of 5`;
 });
-second.addEventListener('focus', () => {
+second.addEventListener('click', () => {
 	para.innerHTML = `You selected ${'2'} out of 5`;
 });
 third.addEventListener('click', () => {
